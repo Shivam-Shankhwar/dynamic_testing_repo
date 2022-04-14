@@ -57,7 +57,7 @@ header .logo
   background: #111;
   transition: 0.5s;
   z-index: 2;
-  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 100%);
 }
 .showcase.active
 {
